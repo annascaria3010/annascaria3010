@@ -32,7 +32,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=annascaria3010&theme=onedark)
 <!--
 **annascaria3010/annascaria3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
