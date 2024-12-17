@@ -6,7 +6,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a Full Stack Developer 」
+    「 WHO AM I 」
     <br>
   </samp>
 </p></h1>
