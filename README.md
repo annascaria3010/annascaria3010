@@ -1,12 +1,15 @@
 ### <h1 align="center">Hi, I'm Asna TH
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Asna+TH">「 Google Me 」</a>
     <br>
     「 I am a Full Stack Developer 」
     <br>
   </samp>
 </p></h1>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nithinsk04/count.svg?"  />
+</div>
 <!--
 **annascaria3010/annascaria3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
