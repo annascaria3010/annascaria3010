@@ -31,7 +31,7 @@
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" /> <br>Git </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>Github</td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=java" width="65" height="65" alt="Java" /> <br>Java </td> 
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="JavaScript" /> <br>JavaScript </td> 
+    <td align="center" width="96">  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" /> <br>JavaScript </td> 
   </tr> 
   <tr> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /> <br>MongoDB </td> 
@@ -41,10 +41,10 @@
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" /> <br>PostgreSQL </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" /> <br>Postman </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" /> <br>Python </td> 
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" /> <br>React </td> 
+    <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> <br>React </td> 
   </tr> 
   <tr>
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React Native" /> <br>React Native </td> 
+    <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React Native" /> <br>React Native </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /> <br>TailwindCSS </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" /> <br>TypeScript </td> 
   </tr> 
