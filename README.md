@@ -26,7 +26,7 @@
   <tr> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=android" width="65" height="65" alt="Android" /> <br>Android </td>
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C" /> <br>C </td> 
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" /> <br>C++ </td> 
+    <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" /> <br>C++ </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" /> <br>Figma </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" /> <br>Git </td>
     <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>Github</td> 
@@ -40,7 +40,7 @@
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop" /> <br>Photoshop </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" /> <br>PostgreSQL </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" /> <br>Postman </td> 
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" /> <br>Python </td> 
+    <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" /> <br>Python </td> 
     <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /> <br>React </td> 
   </tr> 
   <tr>
