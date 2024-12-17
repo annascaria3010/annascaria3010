@@ -1,8 +1,5 @@
-<div align="center>
-  <img height="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/curly-hair-man-6528418-5823051.png?f=webp"  />
-</div>
 
-### <h1 align="center">Hello World
+### <h1>Hi I'm Anna
 <p align="center"> 
   <samp>
     <br>
