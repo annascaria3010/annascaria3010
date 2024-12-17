@@ -1,5 +1,5 @@
 <div align="center>
-  <img height="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/short-hair-girl-7123456-1234567.png?f=webp" />
+  <img height="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/curly-hair-man-6528418-5823051.png?f=webp"  />
 </div>
 
 ### <h1 align="center">Hi, I'm Anna Scaria
