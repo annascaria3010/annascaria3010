@@ -2,15 +2,21 @@
   <img height="200" src="https://cdn3d.iconscout.com/3d/premium/thumb/curly-hair-man-6528418-5823051.png?f=webp"  />
 </div>
 
-### <h1 align="center">Hi, I'm Anna Scaria
+### <h1 align="center">Hello World
 <p align="center"> 
   <samp>
     <br>
-    「 WHO AM I 」
+    「 Set this world on Fire 」
     <br>
   </samp>
 </p></h1>
 
+[<img align="center" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+
+## 🙋‍♂️ About Me
+ Learning and growing!
+
+ 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nithinsk04/count.svg?"  />
 </div>
@@ -25,8 +31,9 @@
 </div>
 
 
-# 📊 Contribution
+## 📊 Contribution
 ![streaks](https://github-readme-streak-stats.herokuapp.com/?user=annascaria3010&theme=monokai-metallian&hide_border=true)
+
 
 ![contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=annascaria3010&theme=xcode)
 
