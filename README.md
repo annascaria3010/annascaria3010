@@ -3,7 +3,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Set this world on Fire 」
+    Set this world on Fire
     <br>
   </samp>
 </p></h1>
