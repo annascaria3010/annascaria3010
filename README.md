@@ -32,7 +32,7 @@
   </tr> 
   <tr> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /> <br>MongoDB </td> 
-    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="NestJS" /> <br>NestJS </td> 
+    <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NestJS" /> <br>NextJS </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" /> <br>NodeJS </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=photoshop" width="65" height="65" alt="Photoshop" /> <br>Photoshop </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" /> <br>PostgreSQL </td> 
