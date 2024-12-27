@@ -10,7 +10,7 @@
 
 
 ## 🙋‍♂️ About Me
- Learning and growing!
+ I like Onigiri!
 
  
 <div align="center">
