@@ -44,6 +44,14 @@
     <td align="center" width="96"> <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React Native" /> <br>React Native </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" /> <br>TailwindCSS </td> 
     <td align="center" width="96"> <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" alt="TypeScript" /> <br>TypeScript </td> 
+    <td align="center" width="96"> 
+  <img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" alt="Ruby" /> 
+  <br>Ruby 
+</td> 
+<td align="center" width="96"> 
+  <img src="https://skillicons.dev/icons?i=rails" width="65" height="65" alt="Ruby on Rails" /> 
+  <br>Ruby on Rails 
+</td>
   </tr> 
 </table>
 
