@@ -12,11 +12,6 @@
 ## 🙋‍♂️ About Me
  I like Onigiri!
 
- 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/annascaria3010/count.svg?"  />
-</div>
-
 
 ## 🧰 My Tech Toolbox
 <table>
